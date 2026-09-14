@@ -1,11 +1,71 @@
-# Sample Snack app
+# Top Filmes 2025 
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Aplicativo desenvolvido em React Native com Expo, apresentando uma seleção de filmes mais assistidos de 2025.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+O projeto foi desenvolvido como forma de praticar conceitos de desenvolvimento mobile, organização de componentes, estilização e navegação entre telas.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+##  Sobre o projeto
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+O aplicativo possui uma tela inicial com uma lista de filmes. Ao selecionar um filme, é possível acessar uma tela com informações, imagens e uma breve descrição.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+### Filmes apresentados
+
+* Ne Zha 2
+* Zootopia 2
+* Avatar: Fire and Ash
+* Lilo & Stitch
+* A Minecraft Movie
+
+##  Funcionalidades
+
+* Listagem dos filmes
+* Cards interativos
+* Tela individual para cada filme
+* Navegação entre a tela inicial e os filmes
+* Botão para voltar à tela inicial
+* Imagens dos filmes
+* Descrição de cada filme
+
+##  Tecnologias utilizadas
+
+* React Native
+* Expo
+* JavaScript
+
+##  Estrutura do projeto
+
+```text
+topfilmes/
+├── App.js
+├── index.js
+├── app.json
+├── package.json
+├── css/
+├── janelas/
+├── img/
+└── assets/
+```
+
+##  Como executar
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Depois, inicie o projeto:
+
+```bash
+npx expo start
+```
+
+O projeto pode ser executado utilizando o Expo Go ou em um emulador Android/iOS.
+
+##  Objetivo
+
+Este projeto faz parte dos meus estudos em desenvolvimento mobile e foi criado para colocar em prática conhecimentos de React Native e JavaScript.
+
+---
+
+Desenvolvido por **Henrique Amorim**.
