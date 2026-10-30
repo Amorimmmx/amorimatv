@@ -1,38 +1,42 @@
-# Top Filmes 2025 
+# Top Filmes 2025
 
 Aplicativo desenvolvido em React Native com Expo, apresentando uma seleção de filmes mais assistidos de 2025.
 
 O projeto foi desenvolvido como forma de praticar conceitos de desenvolvimento mobile, organização de componentes, estilização e navegação entre telas.
 
-##  Sobre o projeto
+## Sobre o projeto
 
 O aplicativo possui uma tela inicial com uma lista de filmes. Ao selecionar um filme, é possível acessar uma tela com informações, imagens e uma breve descrição.
 
-### Filmes apresentados
+## Prévia do aplicativo
 
-* Ne Zha 2
-* Zootopia 2
-* Avatar: Fire and Ash
-* Lilo & Stitch
-* A Minecraft Movie
+![Prévia do aplicativo](./assets/preview.png)
 
-##  Funcionalidades
+## Filmes apresentados
 
-* Listagem dos filmes
-* Cards interativos
-* Tela individual para cada filme
-* Navegação entre a tela inicial e os filmes
-* Botão para voltar à tela inicial
-* Imagens dos filmes
-* Descrição de cada filme
+- Ne Zha 2
+- Zootopia 2
+- Avatar: Fire and Ash
+- Lilo & Stitch
+- A Minecraft Movie
 
-##  Tecnologias utilizadas
+## Funcionalidades
 
-* React Native
-* Expo
-* JavaScript
+- Listagem dos filmes
+- Cards interativos
+- Tela individual para cada filme
+- Navegação entre a tela inicial e os filmes
+- Botão para voltar à tela inicial
+- Imagens dos filmes
+- Descrição de cada filme
 
-##  Estrutura do projeto
+## Tecnologias utilizadas
+
+- React Native
+- Expo
+- JavaScript
+
+## Estrutura do projeto
 
 ```text
 topfilmes/
@@ -43,10 +47,11 @@ topfilmes/
 ├── css/
 ├── janelas/
 ├── img/
-└── assets/
+├── assets/
+└── README.md
 ```
 
-##  Como executar
+## Como executar
 
 Instale as dependências:
 
@@ -62,7 +67,7 @@ npx expo start
 
 O projeto pode ser executado utilizando o Expo Go ou em um emulador Android/iOS.
 
-##  Objetivo
+## Objetivo
 
 Este projeto faz parte dos meus estudos em desenvolvimento mobile e foi criado para colocar em prática conhecimentos de React Native e JavaScript.
 
