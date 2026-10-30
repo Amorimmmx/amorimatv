@@ -10,7 +10,7 @@ O aplicativo possui uma tela inicial com uma lista de filmes. Ao selecionar um f
 
 ## Prévia do aplicativo
 
-![Prévia do aplicativo](./assets/preview.png)
+![Prévia do aplicativo](img/img.png)
 
 ## Filmes apresentados
 
